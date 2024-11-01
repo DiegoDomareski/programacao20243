@@ -19,7 +19,7 @@ footer p {
     display:flex;
 }
 
-.cartao{
+.cartao {
     margin: 1rem 1rem;
     background-color: darkturquoise(209, 170, 245);
     height: 20rem;
