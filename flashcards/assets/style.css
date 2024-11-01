@@ -1,5 +1,5 @@
 body {
-    background-color: rgba(250, 192, 220, 0.638);
+    background-color: rgba(58, 125, 207, 0.638);
     }
 
 footer{ 
@@ -21,4 +21,18 @@ footer p {
 
 .carta0{
     margin: 1rem 1rem;
+    background-color: darkturquoise(209, 170, 245);
+    height: 20rem;
+    flex-grow: 1;
+    flex-basis: calc(33% - 6rem);
+}
+
+.cartao__conteudo{
+    text-align: center;
+    background-color: rgb(56, 136, 109);
+    height: 100%;
+}
+
+.cartao__conteudo h3 {
+    background-color: rgb(174, 216, 202);
 }
