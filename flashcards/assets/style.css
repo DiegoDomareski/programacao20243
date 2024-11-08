@@ -1,10 +1,10 @@
 body {
-    background-color: rgba(58, 125, 207, 0.638);
+    background-color:rgba(39, 182, 39, 0.638);
     }
 
 footer{ 
     background-color:  rgba(248, 248, 205, 0.823);
-    color:rgb(0, 0, 0);
+    color:rgb(36, 90, 9);
     position: fixed;
     bottom: 0;
     width: 100%;
@@ -21,14 +21,14 @@ footer p {
 
 .cartao {
     margin: 1rem 1rem;
-    background-color: darkturquoise(209, 170, 245);
+    background-color:aquamarine(209, 170, 245);
     height: 20rem;
     flex-grow: 1;
     flex-basis: calc(33% - 6rem);
 }
 
 .cartao__conteudo h3 {
-    background-color: rgb(174, 216, 202);
+    background-color: rgb(56, 129, 105);
     text-align: left;
     padding: 0.5rem;
     position: absolute;
